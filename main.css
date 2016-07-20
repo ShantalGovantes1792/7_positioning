@@ -1,0 +1,47 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+span{
+	background-color: red;
+}
+
+.caja1{
+	background-color: #ee3e64;
+	left: 0px;
+	top: 0px;
+}
+.caja2{
+	background-color: blue;
+	right: 0px;
+	top: 0px;
+}
+.caja3{
+	background-color: #b7d84b;
+	left: 0px;
+	bottom: 0px;
+}
+.caja4{
+	background-color: green;
+	right: 0px;
+	bottom: 0px;
+}
+/*}
+.posicion{
+position: relative;
+
+}
+
+.posicion{
+position: relative;
+}
+.posicion{
+position: relative;
+right: 100px;
+top: 100px;
+}*/
